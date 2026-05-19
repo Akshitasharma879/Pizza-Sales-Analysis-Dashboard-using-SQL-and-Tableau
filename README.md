@@ -59,10 +59,12 @@ The SQL file includes:
 ## 📷 Dashboard Preview
 
 ### 🏠 Home Dashboard
-![Home Dashboard](Pizza Sales Dashboard Home Page.png)
+<img width="1404" height="781" alt="Pizza Sales Dashboard Home Page" src="https://github.com/user-attachments/assets/b0fcbacd-9423-4673-bb1b-44ba62364226" />
+
 
 ### 📊 Best/Worst Sellers
-![Best Worst Sellers](Pizza Sales_ Best or Worst Sellers.png)
+<img width="1402" height="782" alt="Pizza Sales_ Best or Worst Sellers" src="https://github.com/user-attachments/assets/71e5c98b-5b16-4769-b577-1440440ca7c1" />
+
 
 ---
 
