@@ -29,8 +29,8 @@ The project combines **SQL for data analysis** and **Tableau for interactive das
 ---
 
 ## 📌 Key KPIs
-- Total Revenue: **$817.9K**
-- Average Order Value: **$38.31**
+- Total Revenue: **$807.55K**
+- Average Order Value: **$38.3**
 - Total Pizzas Sold: **49.6K**
 - Total Orders: **21.4K**
 - Avg Pizzas per Order: **2.32**
